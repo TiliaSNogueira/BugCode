@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Snackbar</string>
+
+
+    <!-- String Login -->
+    <string name="til_username">Nome do usuário</string>
+    <string name="til_password">Senha</string>
+    <string name="btn_login">Login</string>
+    <string name="tv_info">Não tem conta? Cadastre-se</string>
+
+
+    <string name="cadastro_username">User Name</string>
+    <string name="cadastro_email">Email</string>
+    <string name="cadastro_password">Password</string>
+    <string name="cadastro_password_confirma">Password</string>
+    <string name="cadastro_btn">CADASTRAR</string>
+    <string name="cadastro_titulo">CADASTRAR</string>
+    <string name="main_user">user</string>
+    <string name="usuario_logado">USUÁRIO LOGADO</string>
+    <string name="main_email">email</string>
+</resources>
